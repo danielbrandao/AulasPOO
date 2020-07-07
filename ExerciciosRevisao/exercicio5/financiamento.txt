@@ -1,0 +1,3 @@
+Valor a vista: R$ 30000.0
+Valor das parcelas: R$ 1683.0
+Valor total do veículo: R$ 30300.000000000004

@@ -1,0 +1,5 @@
+Marca: FIAT
+Modelo: UNO
+Categoria: PASSEIO
+Placa: ASD1234
+Chassi: A98A7A7A89A
